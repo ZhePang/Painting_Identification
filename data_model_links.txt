@@ -1,0 +1,10 @@
+Painting original dataset csv: https://drive.google.com/file/d/1vnOieHdpTU939jzN3xChUc4zRwcJisLZ/view?usp=sharing
+Painting original dataset: https://drive.google.com/file/d/1iDd8XcFKrU6fKHpRs9EkNYvKbqnk9PNh/view?usp=sharing
+
+Painting training dataset csv: https://drive.google.com/file/d/13TtKO9C2lfQtFWg1PIHdQmAJSRmvMtHR/view?usp=sharing
+Painting training dataset: https://drive.google.com/file/d/1aQEU2T-TrOqlkNlgRtQiDp445Ad8C4zq/view?usp=sharing
+
+Painting testing dataset csv: https://drive.google.com/file/d/1--2D0fmmy7Z6CKkGkj36d2PbKU6WOTqT/view?usp=sharing
+Painting testing dataset: https://drive.google.com/file/d/1xNcQJju4UJmLxasteTnpDWD_W_vQSYEa/view?usp=sharing
+
+Finetuned model parameter: https://drive.google.com/file/d/19AJzeynpzp0C8UA63mP2hko_cy9CvwJ4/view?usp=sharing
